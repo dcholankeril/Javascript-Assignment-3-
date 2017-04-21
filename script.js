@@ -26,8 +26,6 @@ var divMountaintop = document.createElement("div");
 divMountaintop.className = "mountain-top";
 divMountain.appendChild(divMountaintop);
 
-
-
 var t = 1;
 while (t < 6) {
     var divRay = document.createElement("div");
